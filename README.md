@@ -3,7 +3,7 @@
 Welcome to the **Quantum Computing Lab**! This repository serves as a collection of projects, experiments, and learning materials related to quantum computing.  
 
 ### 🚀 What You’ll Find Here  
-- Implementations of quantum algorithms (e.g., Grover’s, Shor’s)  
+- Implementations of quantum algorithms  
 - Simulations using Qiskit, Cirq, and other quantum frameworks  
 - Quantum machine learning experiments  
 - Notes and insights on quantum computing fundamentals  
